@@ -39,7 +39,6 @@
     <version>7.3.0</version>
     <scope>test</scope>
 </dependency>
-
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
     
   </dependencies>
